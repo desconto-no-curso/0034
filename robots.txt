@@ -6,3 +6,11 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+
+Sitemap: https://renda-com-lojas-parceiras.desconto-no-curso.com.br/sitemap.xml
+
+
+
